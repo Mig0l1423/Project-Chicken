@@ -1,0 +1,19 @@
+project-chicken/
+├── .devcontainer/
+│   └── devcontainer.json
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   ├── images/
+│   │   ├── hero.jpg
+│   │   ├── buffalo-wings.jpg
+│   │   ├── lemon-glazed.jpg
+│   │   └── logo.png
+│   ├── index.html
+│   ├── menu.html
+│   ├── about.html
+│   └── contact.html
+├── .gitignore
+└── README.md
