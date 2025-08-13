@@ -1,0 +1,12 @@
+{
+  "Chicken Project": "Business Website",
+  "settings": {
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/workspace/public"
+  },
+  "extensions": [
+    "ritwickdey.liveserver"
+  ],
+  "forwardPorts": [5500],
+  "postCreateCommand": "echo 'Website ready! Open index.html with Live Server'"
+}
