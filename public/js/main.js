@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     hamburger.addEventListener('click', function() {
         hamburger.classList.toggle('active');
         navList.classList.toggle('active');
-    });
+    });i
 
     // Close mobile menu when clicking a link
     document.querySelectorAll('.nav-list a').forEach(link => {
